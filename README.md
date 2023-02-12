@@ -4,7 +4,7 @@ theme: my-theme
 title: DDC23
 version: 1.0.0
 footer: byline 100D
-header: DDC23
+header: DDC.23
 paginate: true
 # size: 4K
 ---
@@ -36,7 +36,7 @@ h1 {
     color:#f8f8f8;
 }
 section{
-    background:#282a36;
+    background:#101010;
     color:#fff;
 }
 span{
@@ -48,17 +48,17 @@ span{
 
 ---
 
-# Bats - About
+# 프로덕트 메이킹 스토리
 
-- Small
+- 대담함
 
-- Fast
+- 섬세함
 
-- Mammals
+- 콘텐츠 그리고
 
-* Scientific name: Chiroptera
+- 그외
 
-![bg right](./img/igam-ogam-unsplash.jpg)
+![bg right](./img/longblack.png)
 
 ---
 
