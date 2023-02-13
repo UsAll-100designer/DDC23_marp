@@ -106,6 +106,8 @@ span{
 > 생소한 이름 롱블랙, 커피에 관심을 가진 사람에게
 > **어느 정도 귀에 익숙한 커피의 한 종류** > _익숙한 아메리카노와 차이는_
 > 물과 에스프레소중 어느 것이 잔에 먼저 들어가냐...
+>
+> 즉 섬세한 취향의 소유자를 위한 미디어라는 의미
 
 ![Alt text](./img/longblackVSamericano.png)
 
@@ -215,11 +217,31 @@ span{
 
 ---
 
-# Words from the Source
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
 
-> There are darknesses in life and there are lights, and you are one of the lights, the light of all lights.
+## 강제성
+
+24시간 후에 사라지는 콘텐츠
+'제한적인 서비스'로 통한 미루지 않는
+자연스러운 데드라인 효과(Deadline effect)적인
+습관 조정
+
+![bg left](./img/screenshot01.png)
+
+---
+
+# 1년 만에 월간활성사용자(MAU) 13만명
+
+> 역발상 전략으로 강세성을 부여한 구독서비스의 성공
 >
-> -- Bram Stoker, Dracula
+> -- 2021년 9월 론칭
 
 <style scoped>
 h1 {
@@ -229,45 +251,34 @@ h1 {
 
 ---
 
-# Screen portrayals
-
-| Year | Title          | Actor             |
-| ---- | -------------- | ----------------- |
-| 1970 | Jonathan       | Paul Albert Krumm |
-| 1995 | Monster Mash   | Anthony Crivello  |
-| 2004 | Blade: Trinity | Dominic Purcell   |
-| 2008 | Supernatural   | Todd Stashwick    |
-| 2020 | Dracula        | Claes Bang        |
-
 <style scoped>
-table {
-    margin-left: auto;
-    margin-right: auto;
-    color:#101010;
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
 }
+h2{color:#00A192}
 </style>
 
----
+## 일관성
 
-# 대담함 - Brave
+커피라는 컨셉의 일관성을 위해
+혜택은 스탬프로
+별점은 커피콩으로 표현해서
+브랜드 아이덴티티를 유지한다.
+모든 경험을 커피로 공감을 형성
 
-- Small
-
-- Fast
-
-- Mammals
-
-- Scientific name: Chiroptera
-
-![bg right](./img/bold.jpeg)
+![bg right](./img/screenshot0303.png)
 
 ---
 
-# Words from the Source
+# Growth Hacking
 
-> There are darknesses in life and there are lights, and you are one of the lights, the light of all lights.
+> 성장을 뜻하는 Growth와 Hacking이 결합된 단어로 고객의 반응에 따라 제품 및 서비스를
+> 수정해 제품과 시장의 궁합(PMF) 높이는 것을 의미함.
+> 조금더 간단히 말하자면 개발과정에 걸쳐 마케팅 아이디러를 제품에 녹여내는 전략
 >
-> -- Bram Stoker, Dracula
+> -- 출처 : 위키피디아
 
 <style scoped>
 h1 {
@@ -277,34 +288,114 @@ h1 {
 
 ---
 
-# Bats - About
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
 
-- Small
+## 24H 링크 공유
 
-- Fast
+무료 링크 (24H) →
+Growthhacking →
+고객이 세일즈맨이 됨
 
-- Mammals
+무료 링크에서 15% 읽으면
+광고 팝업이 나옴 →
+플랫폼 광고를 연결해서 홍보 비용 줄임
 
-- Scientific name: Chiroptera
-
-![bg right](./img/igam-ogam-unsplash.jpg)
+![bg right](./img/screenshot10.png)
 
 ---
 
-# Bats - Implementation
+# UX UI 톺아보기
 
-```python
-class Bat:
-    def __init__(name:str, age:int):
-        self.__name = name
-        self.__age = age
-    @property
-    def name(self):
-        return self.__name
-    @property
-    def age(self):
-        return self.__age
-    @property
-    def speed(self):
-        return 10 - self.age
-```
+> 사용자 전체적 경험 설계를 하는 일
+> UX = 행동 / UI = 표현
+
+<style scoped>
+h1 {
+    padding-bottom: 1.5em;
+}
+</style>
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot02.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot03.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot04.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot05.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot06.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+h2{color:#00A192}
+</style>
+
+![bg](./img/screenshot07.png)
