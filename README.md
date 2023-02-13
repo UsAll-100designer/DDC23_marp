@@ -47,13 +47,10 @@ h1{ color:#fff}
 # DDC 2023
 
 [Design Day] 23.01.29 [Tstory](https://100designer.tistory.com/6)
-<br>
 
 ### 김리연 [롱블랙]
 
-<span>
 대담함과 섬세함, 롱블랙이<br> 경험을 설계하는 법
-</span>
 
 <style scoped>
 h1 {
@@ -79,6 +76,7 @@ span{
 
 <style scoped>
     h1{font-family:'Noto Serif KR';}
+    section{ color:#00AA8B;}
 </style>
 
 # 프로덕트 메이킹 스토리
@@ -99,13 +97,14 @@ span{
     h1{font-family:'Noto Serif KR';}
     h1 {
     padding-bottom: 1em;
+    color:#00AA8B;
 }
 </style>
 
 # Long Black
 
 > 생소한 이름 롱블랙, 커피에 관심을 가진 사람에게
-> <b>어느 정도 귀에 익숙한 커피의 한 종류</b> > _익숙한 아메리카노와 차이는_
+> **어느 정도 귀에 익숙한 커피의 한 종류** > _익숙한 아메리카노와 차이는_
 > 물과 에스프레소중 어느 것이 잔에 먼저 들어가냐...
 
 ![Alt text](./img/longblackVSamericano.png)
@@ -116,6 +115,7 @@ span{
     h1{font-family:'Noto Serif KR';}
     h1 {
     padding-bottom: 0.5em;
+    color:#00AA8B;
 }
 </style>
 
@@ -139,6 +139,7 @@ span{
     h1{font-family:'Noto Serif KR';}
     h1 {
     padding-bottom: 0.5em;
+    color:#00AA8B;
 }
 </style>
 
@@ -153,6 +154,64 @@ span{
 - 공간경험
 
 ![bg left](./img/delicacy.jpeg)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+    color:#00D063;
+}
+</style>
+
+# 콘텐츠 - Contents
+
+- 밀도있는 콘텐츠
+
+- 서비스의 본질을 잃지 않는 것
+
+- 포장은 본질이후, 고민하는 것
+
+![bg right](./img/longblack02.png)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+    color:#00D063;
+}
+</style>
+
+# 연결 - Connect
+
+- [online] 롱블랙 Slack 커뮤니티
+
+- [online] 롱블랙 커피챗
+
+![bg left](./img/coffeeChat.jpeg)
+
+---
+
+<style scoped>
+    h1{font-family:'Noto Serif KR';}
+    h1 {
+    padding-bottom: 0.5em;
+     color:#00D063;
+}
+</style>
+
+# 공간 경험 - Experience
+
+- 검색하는 순간
+
+- 마주하는 순간
+
+- 머무는 순간
+
+![bg right](./img/longblack03.png)
 
 ---
 
