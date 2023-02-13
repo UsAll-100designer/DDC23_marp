@@ -44,6 +44,8 @@ h1{ color:#fff}
 
 </style>
 
+<!-- 여기는 제목 -->
+
 # DDC 2023
 
 [Design Day] 23.01.29 [Tstory](https://100designer.tistory.com/6)
@@ -191,7 +193,7 @@ span{
 
 - [online] 롱블랙 Slack 커뮤니티
 
-- [online] 롱블랙 커피챗
+- [offline] 롱블랙 커피챗
 
 ![bg left](./img/coffeeChat.jpeg)
 
