@@ -30,9 +30,9 @@ paginate: true
 
 section{
     font-family:'Noto Serif KR';
-    background: linear-gradient(-45deg, #000, #343434, #282a36, #44475a );
+    background: linear-gradient(-45deg, #343434, #282a36, #44475a, #6272a4 );
         background-size: 300% 300%;
-        animation: AnimationName 6s infinite;background: linear-gradient(-45deg, #000, #343434, #282a36, #44475a);
+        animation: AnimationName 6s infinite;background: linear-gradient(-45deg, #343434, #282a36, #44475a, #6272a4);
         background-size: 300% 300%;
         animation: AnimationName 6s infinite;
 }
